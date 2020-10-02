@@ -77,6 +77,7 @@ Em seguida, clique no nome do usuário e navegue até a gui de credenciais de se
 ![iam](https://github.com/pmarcelojr/terraform-aws-labs/blob/master/image/generate-access-keys.png)
 
 Baixe o arquivo csv para sua segurança ou clique em mostrar chaves. Agora você tem access_key e secret_key necessários para o código do Terraform acima.
+
 ![iam](https://github.com/pmarcelojr/terraform-aws-labs/blob/master/image/iam-generated-keys.png)
 
 
