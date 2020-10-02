@@ -1,0 +1,16 @@
+# Diretórios locais .terraform
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Arquivos de registro de falhas
+crash.log
+
+# Ignore os arquivos de substituição, pois geralmente são usados ​​para substituir os recursos localmente e assim
+# não foram registrados
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
