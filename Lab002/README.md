@@ -69,8 +69,8 @@ O sinalizador **Auto approve** ignora a pergunta sim/não.
 - Abra o arquivo RDP baixado. A senha será solicitada quando a área de trabalho remota do Windows for executada. Forneça a senha.
 Obeservação: Se você não tiver a área de trabalho remota instalada, é necessário instalá-la. 
 
-![key](../images/decrypt-pass.png)
-![key](../images/windows.png)
+![key](../image/decrypt-pass.png)
+![key](../image/windows.png)
 
 6) Você deve estar logado agora. 
 
